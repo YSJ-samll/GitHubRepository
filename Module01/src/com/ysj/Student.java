@@ -13,6 +13,7 @@ public class Student {
     private int Stu_no;
     private String Stu_name;
     private int Stu_age;
+    private String class_name;
 
     public Student() {
     }
