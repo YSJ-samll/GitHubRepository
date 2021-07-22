@@ -8,5 +8,6 @@ package com.ysj;
  */
 public class Person {
     private int age;
+    private int height;
 
 }
